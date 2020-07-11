@@ -21,7 +21,6 @@ class SortedLinkedList {
                 newNode.next = current.next;
                 current.next = newNode;
             }
-
         this.length++;
         return;
     }
