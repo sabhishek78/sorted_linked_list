@@ -90,6 +90,7 @@ list2.add(2);
 console.log(list2.remove(2));
 console.log(`${list2}`);
 let list3 = new SortedLinkedList();
+
 list3.add(1);
 list3.add(1);
 list3.add(2);
